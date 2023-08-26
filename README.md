@@ -1,7 +1,7 @@
 ## Tricky-Towers-UA
 Український переклад для гри Tricky Towers. Модифікація гри виконується через заміну асетів
 ## Посилання
-- Посібник в Steam:
+- Посібник в Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3026019069
 - Google Drive: https://drive.google.com/file/d/1vPYAGTN_jlDLjQmVHBRlHOofAVBQDH6Y/view?usp=sharing
 - Мій Discord сервер: https://discord.gg/2pdYu7kZ7g
 - Мій Discord: damglador
