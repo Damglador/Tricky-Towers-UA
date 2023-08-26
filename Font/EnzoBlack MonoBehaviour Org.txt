@@ -1,0 +1,2057 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 839
+ 1 string m_Name = "EnzoBlack SDF"
+ 0 int fontAssetType = 1
+ 0 FaceInfo m_fontInfo
+  1 string Name = "Enzo Offc Pro"
+  0 float PointSize = 37
+  0 float Padding = 0
+  0 float LineHeight = 45,125
+  0 float Baseline = 0
+  0 float Ascender = 37,125
+  0 float Descender = -8,03125
+  0 float CenterLine = 0
+  0 float SuperscriptOffset = 37,125
+  0 float SubscriptOffset = -4,07
+  0 float SubSize = 0,5
+  0 float Underline = -4,07
+  0 float UnderlineThickness = 3,7
+  0 float TabWidth = 77,8125
+  0 int CharacterCount = 199
+  0 float AtlasWidth = 1024
+  0 float AtlasHeight = 1024
+ 0 int fontHashCode = 1061056598
+ 0 PPtr<$Texture2D> atlas
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 8
+ 0 PPtr<$Material> material
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3
+ 0 int materialHashCode = -689489455
+ 0 GlyphInfo m_glyphInfoList
+  1 Array Array (199 items)
+   0 int size = 199
+   [0]
+    0 GlyphInfo data
+     0 int id = 32
+     0 float x = 6
+     0 float y = 1029
+     0 float width = 7,78125
+     0 float height = 45,15625
+     0 float xOffset = 0
+     0 float yOffset = 37,125
+     0 float xAdvance = 7,78125
+   [1]
+    0 GlyphInfo data
+     0 int id = 33
+     0 float x = 782
+     0 float y = 852
+     0 float width = 9,28125
+     0 float height = 26,75
+     0 float xOffset = 2,5
+     0 float yOffset = 26,375
+     0 float xAdvance = 13,75
+   [2]
+    0 GlyphInfo data
+     0 int id = 34
+     0 float x = 885
+     0 float y = 1006
+     0 float width = 16,78125
+     0 float height = 11,5625
+     0 float xOffset = 0,71875
+     0 float yOffset = 26,59375
+     0 float xAdvance = 18,28125
+   [3]
+    0 GlyphInfo data
+     0 int id = 35
+     0 float x = 356
+     0 float y = 992
+     0 float width = 25,875
+     0 float height = 25,90625
+     0 float xOffset = -0,34375
+     0 float yOffset = 25,90625
+     0 float xAdvance = 25,15625
+   [4]
+    0 GlyphInfo data
+     0 int id = 36
+     0 float x = 41
+     0 float y = 738
+     0 float width = 20,84375
+     0 float height = 34,59375
+     0 float xOffset = 2,125
+     0 float yOffset = 30,25
+     0 float xAdvance = 25,15625
+   [5]
+    0 GlyphInfo data
+     0 int id = 37
+     0 float x = 102
+     0 float y = 990
+     0 float width = 35,28125
+     0 float height = 27,125
+     0 float xOffset = 1,84375
+     0 float yOffset = 26,5
+     0 float xAdvance = 38,96875
+   [6]
+    0 GlyphInfo data
+     0 int id = 38
+     0 float x = 393
+     0 float y = 991
+     0 float width = 24,96875
+     0 float height = 26,125
+     0 float xOffset = 1,5
+     0 float yOffset = 26,125
+     0 float xAdvance = 27,90625
+   [7]
+    0 GlyphInfo data
+     0 int id = 39
+     0 float x = 740
+     0 float y = 816
+     0 float width = 7,96875
+     0 float height = 11,5625
+     0 float xOffset = 0,71875
+     0 float yOffset = 26,59375
+     0 float xAdvance = 9,46875
+   [8]
+    0 GlyphInfo data
+     0 int id = 40
+     0 float x = 851
+     0 float y = 920
+     0 float width = 11,3125
+     0 float height = 32,625
+     0 float xOffset = 1,125
+     0 float yOffset = 27,03125
+     0 float xAdvance = 13,6875
+   [9]
+    0 GlyphInfo data
+     0 int id = 41
+     0 float x = 819
+     0 float y = 899
+     0 float width = 11,3125
+     0 float height = 32,625
+     0 float xOffset = 1,21875
+     0 float yOffset = 27,03125
+     0 float xAdvance = 13,6875
+   [10]
+    0 GlyphInfo data
+     0 int id = 42
+     0 float x = 857
+     0 float y = 1002
+     0 float width = 16,09375
+     0 float height = 15,1875
+     0 float xOffset = 0,90625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 17,9375
+   [11]
+    0 GlyphInfo data
+     0 int id = 43
+     0 float x = 236
+     0 float y = 686
+     0 float width = 17,96875
+     0 float height = 17,5
+     0 float xOffset = 3,5625
+     0 float yOffset = 20,375
+     0 float xAdvance = 25,15625
+   [12]
+    0 GlyphInfo data
+     0 int id = 44
+     0 float x = 906
+     0 float y = 900
+     0 float width = 10,53125
+     0 float height = 13,6875
+     0 float xOffset = 0,71875
+     0 float yOffset = 8,53125
+     0 float xAdvance = 12,03125
+   [13]
+    0 GlyphInfo data
+     0 int id = 45
+     0 float x = 939
+     0 float y = 965
+     0 float width = 12,40625
+     0 float height = 7,59375
+     0 float xOffset = 1,84375
+     0 float yOffset = 15,40625
+     0 float xAdvance = 16,09375
+   [14]
+    0 GlyphInfo data
+     0 int id = 46
+     0 float x = 781
+     0 float y = 831
+     0 float width = 9,1875
+     0 float height = 9,15625
+     0 float xOffset = 1,84375
+     0 float yOffset = 8,75
+     0 float xAdvance = 12,875
+   [15]
+    0 GlyphInfo data
+     0 int id = 47
+     0 float x = 760
+     0 float y = 908
+     0 float width = 13,5
+     0 float height = 27,03125
+     0 float xOffset = 0,71875
+     0 float yOffset = 26,46875
+     0 float xAdvance = 15
+   [16]
+    0 GlyphInfo data
+     0 int id = 48
+     0 float x = 494
+     0 float y = 905
+     0 float width = 21,90625
+     0 float height = 26,78125
+     0 float xOffset = 1,625
+     0 float yOffset = 26,375
+     0 float xAdvance = 25,15625
+   [17]
+    0 GlyphInfo data
+     0 int id = 49
+     0 float x = 291
+     0 float y = 751
+     0 float width = 19,75
+     0 float height = 25,90625
+     0 float xOffset = 2,90625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 25,15625
+   [18]
+    0 GlyphInfo data
+     0 int id = 50
+     0 float x = 73
+     0 float y = 702
+     0 float width = 20,78125
+     0 float height = 26,34375
+     0 float xOffset = 2,21875
+     0 float yOffset = 26,375
+     0 float xAdvance = 25,15625
+   [19]
+    0 GlyphInfo data
+     0 int id = 51
+     0 float x = 38
+     0 float y = 700
+     0 float width = 20,9375
+     0 float height = 26,34375
+     0 float xOffset = 2,15625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 25,15625
+   [20]
+    0 GlyphInfo data
+     0 int id = 52
+     0 float x = 41
+     0 float y = 784
+     0 float width = 23,21875
+     0 float height = 26,34375
+     0 float xOffset = 0,90625
+     0 float yOffset = 26,375
+     0 float xAdvance = 25,15625
+   [21]
+    0 GlyphInfo data
+     0 int id = 53
+     0 float x = 382
+     0 float y = 906
+     0 float width = 21,28125
+     0 float height = 26,34375
+     0 float xOffset = 1,9375
+     0 float yOffset = 25,90625
+     0 float xAdvance = 25,15625
+   [22]
+    0 GlyphInfo data
+     0 int id = 54
+     0 float x = 634
+     0 float y = 991
+     0 float width = 20,90625
+     0 float height = 26,78125
+     0 float xOffset = 2,3125
+     0 float yOffset = 26,375
+     0 float xAdvance = 25,15625
+   [23]
+    0 GlyphInfo data
+     0 int id = 55
+     0 float x = 448
+     0 float y = 878
+     0 float width = 21,15625
+     0 float height = 25,90625
+     0 float xOffset = 2,21875
+     0 float yOffset = 25,90625
+     0 float xAdvance = 25,15625
+   [24]
+    0 GlyphInfo data
+     0 int id = 56
+     0 float x = 336
+     0 float y = 869
+     0 float width = 21,21875
+     0 float height = 26,78125
+     0 float xOffset = 1,9375
+     0 float yOffset = 26,375
+     0 float xAdvance = 25,15625
+   [25]
+    0 GlyphInfo data
+     0 int id = 57
+     0 float x = 666
+     0 float y = 991
+     0 float width = 20,90625
+     0 float height = 26,78125
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,375
+     0 float xAdvance = 25,15625
+   [26]
+    0 GlyphInfo data
+     0 int id = 58
+     0 float x = 803
+     0 float y = 828
+     0 float width = 9,1875
+     0 float height = 19,65625
+     0 float xOffset = 1,84375
+     0 float yOffset = 19,21875
+     0 float xAdvance = 12,875
+   [27]
+    0 GlyphInfo data
+     0 int id = 59
+     0 float x = 680
+     0 float y = 825
+     0 float width = 10,5625
+     0 float height = 24,375
+     0 float xOffset = 0,65625
+     0 float yOffset = 19,21875
+     0 float xAdvance = 12,875
+   [28]
+    0 GlyphInfo data
+     0 int id = 60
+     0 float x = 273
+     0 float y = 719
+     0 float width = 17,96875
+     0 float height = 20,9375
+     0 float xOffset = 3,5625
+     0 float yOffset = 22,625
+     0 float xAdvance = 25,15625
+   [29]
+    0 GlyphInfo data
+     0 int id = 61
+     0 float x = 199
+     0 float y = 664
+     0 float width = 17,96875
+     0 float height = 16,0625
+     0 float xOffset = 3,5625
+     0 float yOffset = 19,65625
+     0 float xAdvance = 25,15625
+   [30]
+    0 GlyphInfo data
+     0 int id = 62
+     0 float x = 273
+     0 float y = 687
+     0 float width = 17,96875
+     0 float height = 20,875
+     0 float xOffset = 3,5625
+     0 float yOffset = 22,59375
+     0 float xAdvance = 25,15625
+   [31]
+    0 GlyphInfo data
+     0 int id = 63
+     0 float x = 885
+     0 float y = 968
+     0 float width = 14,15625
+     0 float height = 26,75
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,375
+     0 float xAdvance = 16,8125
+   [32]
+    0 GlyphInfo data
+     0 int id = 64
+     0 float x = 6
+     0 float y = 947
+     0 float width = 33,03125
+     0 float height = 32,34375
+     0 float xOffset = 1,375
+     0 float yOffset = 26,375
+     0 float xAdvance = 35,84375
+   [33]
+    0 GlyphInfo data
+     0 int id = 65
+     0 float x = 43
+     0 float y = 869
+     0 float width = 25,78125
+     0 float height = 26,78125
+     0 float xOffset = 0,15625
+     0 float yOffset = 26,375
+     0 float xAdvance = 26,15625
+   [34]
+    0 GlyphInfo data
+     0 int id = 66
+     0 float x = 498
+     0 float y = 943
+     0 float width = 21,75
+     0 float height = 26,34375
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,375
+     0 float xAdvance = 24,25
+   [35]
+    0 GlyphInfo data
+     0 int id = 67
+     0 float x = 558
+     0 float y = 871
+     0 float width = 19,90625
+     0 float height = 26,78125
+     0 float xOffset = 1,4375
+     0 float yOffset = 26,375
+     0 float xAdvance = 22,34375
+   [36]
+    0 GlyphInfo data
+     0 int id = 68
+     0 float x = 427
+     0 float y = 944
+     0 float width = 22,84375
+     0 float height = 26,34375
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,375
+     0 float xAdvance = 25,9375
+   [37]
+    0 GlyphInfo data
+     0 int id = 69
+     0 float x = 140
+     0 float y = 691
+     0 float width = 18,5
+     0 float height = 25,90625
+     0 float xOffset = 1,90625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 21,71875
+   [38]
+    0 GlyphInfo data
+     0 int id = 70
+     0 float x = 105
+     0 float y = 676
+     0 float width = 18,5
+     0 float height = 25,90625
+     0 float xOffset = 1,90625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 20,78125
+   [39]
+    0 GlyphInfo data
+     0 int id = 71
+     0 float x = 464
+     0 float y = 953
+     0 float width = 22,53125
+     0 float height = 26,78125
+     0 float xOffset = 1,4375
+     0 float yOffset = 26,375
+     0 float xAdvance = 25,53125
+   [40]
+    0 GlyphInfo data
+     0 int id = 72
+     0 float x = 533
+     0 float y = 992
+     0 float width = 22,8125
+     0 float height = 25,90625
+     0 float xOffset = 1,90625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 26,6875
+   [41]
+    0 GlyphInfo data
+     0 int id = 73
+     0 float x = 740
+     0 float y = 870
+     0 float width = 8,34375
+     0 float height = 25,90625
+     0 float xOffset = 1,90625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 12,21875
+   [42]
+    0 GlyphInfo data
+     0 int id = 74
+     0 float x = 991
+     0 float y = 903
+     0 float width = 10,84375
+     0 float height = 32,53125
+     0 float xOffset = 0,15625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 12,9375
+   [43]
+    0 GlyphInfo data
+     0 int id = 75
+     0 float x = 356
+     0 float y = 954
+     0 float width = 24,40625
+     0 float height = 26,46875
+     0 float xOffset = 1,90625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 26,34375
+   [44]
+    0 GlyphInfo data
+     0 int id = 76
+     0 float x = 369
+     0 float y = 790
+     0 float width = 19,03125
+     0 float height = 25,90625
+     0 float xOffset = 1,90625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 21,90625
+   [45]
+    0 GlyphInfo data
+     0 int id = 77
+     0 float x = 193
+     0 float y = 991
+     0 float width = 31,0625
+     0 float height = 26,375
+     0 float xOffset = 1,09375
+     0 float yOffset = 25,90625
+     0 float xAdvance = 33,3125
+   [46]
+    0 GlyphInfo data
+     0 int id = 78
+     0 float x = 115
+     0 float y = 797
+     0 float width = 23,71875
+     0 float height = 26,34375
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,375
+     0 float xAdvance = 27,5625
+   [47]
+    0 GlyphInfo data
+     0 int id = 79
+     0 float x = 6
+     0 float y = 777
+     0 float width = 23,75
+     0 float height = 26,78125
+     0 float xOffset = 1,4375
+     0 float yOffset = 26,375
+     0 float xAdvance = 26,625
+   [48]
+    0 GlyphInfo data
+     0 int id = 80
+     0 float x = 531
+     0 float y = 915
+     0 float width = 21,65625
+     0 float height = 26,3125
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,3125
+     0 float xAdvance = 23,90625
+   [49]
+    0 GlyphInfo data
+     0 int id = 81
+     0 float x = 252
+     0 float y = 859
+     0 float width = 23,75
+     0 float height = 32,34375
+     0 float xOffset = 1,4375
+     0 float yOffset = 26,375
+     0 float xAdvance = 26,625
+   [50]
+    0 GlyphInfo data
+     0 int id = 82
+     0 float x = 464
+     0 float y = 991
+     0 float width = 23,0625
+     0 float height = 26,78125
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,3125
+     0 float xAdvance = 25,1875
+   [51]
+    0 GlyphInfo data
+     0 int id = 83
+     0 float x = 108
+     0 float y = 713
+     0 float width = 20,875
+     0 float height = 26,78125
+     0 float xOffset = 1,28125
+     0 float yOffset = 26,375
+     0 float xAdvance = 22,90625
+   [52]
+    0 GlyphInfo data
+     0 int id = 84
+     0 float x = 698
+     0 float y = 992
+     0 float width = 20,0625
+     0 float height = 25,90625
+     0 float xOffset = 0,75
+     0 float yOffset = 25,90625
+     0 float xAdvance = 21,59375
+   [53]
+    0 GlyphInfo data
+     0 int id = 85
+     0 float x = 78
+     0 float y = 786
+     0 float width = 23,34375
+     0 float height = 26,34375
+     0 float xOffset = 1,75
+     0 float yOffset = 25,90625
+     0 float xAdvance = 26,90625
+   [54]
+    0 GlyphInfo data
+     0 int id = 86
+     0 float x = 6
+     0 float y = 862
+     0 float width = 25,625
+     0 float height = 26,34375
+     0 float xOffset = 0,15625
+     0 float yOffset = 26,375
+     0 float xAdvance = 26
+   [55]
+    0 GlyphInfo data
+     0 int id = 87
+     0 float x = 6
+     0 float y = 991
+     0 float width = 36,375
+     0 float height = 26,34375
+     0 float xOffset = 0,15625
+     0 float yOffset = 26,375
+     0 float xAdvance = 36,75
+   [56]
+    0 GlyphInfo data
+     0 int id = 88
+     0 float x = 88
+     0 float y = 871
+     0 float width = 25,75
+     0 float height = 27,5
+     0 float xOffset = 0,15625
+     0 float yOffset = 26,375
+     0 float xAdvance = 26,125
+   [57]
+    0 GlyphInfo data
+     0 int id = 89
+     0 float x = 142
+     0 float y = 927
+     0 float width = 26,21875
+     0 float height = 26,34375
+     0 float xOffset = 0,15625
+     0 float yOffset = 26,375
+     0 float xAdvance = 26,59375
+   [58]
+    0 GlyphInfo data
+     0 int id = 90
+     0 float x = 730
+     0 float y = 992
+     0 float width = 20,96875
+     0 float height = 25,90625
+     0 float xOffset = 0,90625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 22,84375
+   [59]
+    0 GlyphInfo data
+     0 int id = 91
+     0 float x = 957
+     0 float y = 903
+     0 float width = 10,125
+     0 float height = 31,75
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,59375
+     0 float xAdvance = 13,46875
+   [60]
+    0 GlyphInfo data
+     0 int id = 92
+     0 float x = 967
+     0 float y = 990
+     0 float width = 13,25
+     0 float height = 27,28125
+     0 float xOffset = 0,71875
+     0 float yOffset = 26,625
+     0 float xAdvance = 14,71875
+   [61]
+    0 GlyphInfo data
+     0 int id = 93
+     0 float x = 718
+     0 float y = 864
+     0 float width = 10,125
+     0 float height = 31,75
+     0 float xOffset = 1,375
+     0 float yOffset = 26,59375
+     0 float xAdvance = 13,46875
+   [62]
+    0 GlyphInfo data
+     0 int id = 94
+     0 float x = 6
+     0 float y = 669
+     0 float width = 18,59375
+     0 float height = 13,625
+     0 float xOffset = 0,90625
+     0 float yOffset = 26,59375
+     0 float xAdvance = 20,46875
+   [63]
+    0 GlyphInfo data
+     0 int id = 95
+     0 float x = 244
+     0 float y = 756
+     0 float width = 18,625
+     0 float height = 4,0625
+     0 float xOffset = -0,09375
+     0 float yOffset = -1,625
+     0 float xAdvance = 18,5
+   [64]
+    0 GlyphInfo data
+     0 int id = 96
+     0 float x = 842
+     0 float y = 901
+     0 float width = 10,53125
+     0 float height = 7,0625
+     0 float xOffset = 0,71875
+     0 float yOffset = 28,3125
+     0 float xAdvance = 12,03125
+   [65]
+    0 GlyphInfo data
+     0 int id = 97
+     0 float x = 626
+     0 float y = 878
+     0 float width = 19,65625
+     0 float height = 21
+     0 float xOffset = 1,4375
+     0 float yOffset = 20,4375
+     0 float xAdvance = 22,375
+   [66]
+    0 GlyphInfo data
+     0 int id = 98
+     0 float x = 512
+     0 float y = 836
+     0 float width = 19,71875
+     0 float height = 27
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,59375
+     0 float xAdvance = 22,875
+   [67]
+    0 GlyphInfo data
+     0 int id = 99
+     0 float x = 6
+     0 float y = 578
+     0 float width = 16,4375
+     0 float height = 20,875
+     0 float xOffset = 1,21875
+     0 float yOffset = 20,4375
+     0 float xAdvance = 17,90625
+   [68]
+    0 GlyphInfo data
+     0 int id = 100
+     0 float x = 6
+     0 float y = 694
+     0 float width = 20,3125
+     0 float height = 27
+     0 float xOffset = 1,21875
+     0 float yOffset = 26,59375
+     0 float xAdvance = 22,90625
+   [69]
+    0 GlyphInfo data
+     0 int id = 101
+     0 float x = 70
+     0 float y = 670
+     0 float width = 18,75
+     0 float height = 20,875
+     0 float xOffset = 1,21875
+     0 float yOffset = 20,4375
+     0 float xAdvance = 21,09375
+   [70]
+    0 GlyphInfo data
+     0 int id = 102
+     0 float x = 857
+     0 float y = 964
+     0 float width = 14,3125
+     0 float height = 27
+     0 float xOffset = 0,90625
+     0 float yOffset = 27,03125
+     0 float xAdvance = 15,8125
+   [71]
+    0 GlyphInfo data
+     0 int id = 103
+     0 float x = 479
+     0 float y = 827
+     0 float width = 19,71875
+     0 float height = 26,59375
+     0 float xOffset = 0,90625
+     0 float yOffset = 20,4375
+     0 float xAdvance = 22,3125
+   [72]
+    0 GlyphInfo data
+     0 int id = 104
+     0 float x = 432
+     0 float y = 800
+     0 float width = 19,1875
+     0 float height = 26,5625
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,59375
+     0 float xAdvance = 22,875
+   [73]
+    0 GlyphInfo data
+     0 int id = 105
+     0 float x = 808
+     0 float y = 859
+     0 float width = 9,03125
+     0 float height = 28,625
+     0 float xOffset = 1,53125
+     0 float yOffset = 28,65625
+     0 float xAdvance = 12,09375
+   [74]
+    0 GlyphInfo data
+     0 int id = 106
+     0 float x = 760
+     0 float y = 861
+     0 float width = 10,46875
+     0 float height = 35,25
+     0 float xOffset = 0,5
+     0 float yOffset = 28,65625
+     0 float xAdvance = 12,5
+   [75]
+    0 GlyphInfo data
+     0 int id = 107
+     0 float x = 533
+     0 float y = 953
+     0 float width = 21,0625
+     0 float height = 27,125
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,59375
+     0 float xAdvance = 22,84375
+   [76]
+    0 GlyphInfo data
+     0 int id = 108
+     0 float x = 302
+     0 float y = 713
+     0 float width = 8,4375
+     0 float height = 26,5625
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,59375
+     0 float xAdvance = 11,8125
+   [77]
+    0 GlyphInfo data
+     0 int id = 109
+     0 float x = 149
+     0 float y = 965
+     0 float width = 30,8125
+     0 float height = 20,4375
+     0 float xOffset = 1,34375
+     0 float yOffset = 20,4375
+     0 float xAdvance = 33,9375
+   [78]
+    0 GlyphInfo data
+     0 int id = 110
+     0 float x = 657
+     0 float y = 878
+     0 float width = 19,78125
+     0 float height = 20,4375
+     0 float xOffset = 1,34375
+     0 float yOffset = 20,4375
+     0 float xAdvance = 22,90625
+   [79]
+    0 GlyphInfo data
+     0 int id = 111
+     0 float x = 794
+     0 float y = 997
+     0 float width = 20,21875
+     0 float height = 20,875
+     0 float xOffset = 1,21875
+     0 float yOffset = 20,4375
+     0 float xAdvance = 22,65625
+   [80]
+    0 GlyphInfo data
+     0 int id = 112
+     0 float x = 259
+     0 float y = 772
+     0 float width = 20,3125
+     0 float height = 26,125
+     0 float xOffset = 1,34375
+     0 float yOffset = 20,4375
+     0 float xAdvance = 22,90625
+   [81]
+    0 GlyphInfo data
+     0 int id = 113
+     0 float x = 401
+     0 float y = 792
+     0 float width = 19,71875
+     0 float height = 26,0625
+     0 float xOffset = 1,21875
+     0 float yOffset = 20,40625
+     0 float xAdvance = 22,875
+   [82]
+    0 GlyphInfo data
+     0 int id = 114
+     0 float x = 793
+     0 float y = 918
+     0 float width = 14,25
+     0 float height = 20,4375
+     0 float xOffset = 1,34375
+     0 float yOffset = 20,4375
+     0 float xAdvance = 15,90625
+   [83]
+    0 GlyphInfo data
+     0 int id = 115
+     0 float x = 68
+     0 float y = 638
+     0 float width = 17,1875
+     0 float height = 20,875
+     0 float xOffset = 0,9375
+     0 float yOffset = 20,4375
+     0 float xAdvance = 19,125
+   [84]
+    0 GlyphInfo data
+     0 int id = 116
+     0 float x = 913
+     0 float y = 971
+     0 float width = 14,3125
+     0 float height = 27,25
+     0 float xOffset = 0,90625
+     0 float yOffset = 26,21875
+     0 float xAdvance = 15,8125
+   [85]
+    0 GlyphInfo data
+     0 int id = 117
+     0 float x = 589
+     0 float y = 870
+     0 float width = 19,78125
+     0 float height = 20,53125
+     0 float xOffset = 1,71875
+     0 float yOffset = 20
+     0 float xAdvance = 22,90625
+   [86]
+    0 GlyphInfo data
+     0 int id = 118
+     0 float x = 369
+     0 float y = 874
+     0 float width = 22
+     0 float height = 20,4375
+     0 float xOffset = 0,15625
+     0 float yOffset = 20,4375
+     0 float xAdvance = 22,375
+   [87]
+    0 GlyphInfo data
+     0 int id = 119
+     0 float x = 149
+     0 float y = 997
+     0 float width = 32,625
+     0 float height = 20,4375
+     0 float xOffset = 0,15625
+     0 float yOffset = 20,4375
+     0 float xAdvance = 33
+   [88]
+    0 GlyphInfo data
+     0 int id = 120
+     0 float x = 567
+     0 float y = 996
+     0 float width = 22,78125
+     0 float height = 21,5
+     0 float xOffset = 0,15625
+     0 float yOffset = 20,5
+     0 float xAdvance = 23,15625
+   [89]
+    0 GlyphInfo data
+     0 int id = 121
+     0 float x = 461
+     0 float y = 915
+     0 float width = 22
+     0 float height = 26,8125
+     0 float xOffset = 0,15625
+     0 float yOffset = 20,4375
+     0 float xAdvance = 22,375
+   [90]
+    0 GlyphInfo data
+     0 int id = 122
+     0 float x = 38
+     0 float y = 669
+     0 float width = 18,28125
+     0 float height = 19,96875
+     0 float xOffset = 1,25
+     0 float yOffset = 20
+     0 float xAdvance = 20,5625
+   [91]
+    0 GlyphInfo data
+     0 int id = 123
+     0 float x = 992
+     0 float y = 947
+     0 float width = 12,25
+     0 float height = 32,15625
+     0 float xOffset = 0,34375
+     0 float yOffset = 27,03125
+     0 float xAdvance = 14,25
+   [92]
+    0 GlyphInfo data
+     0 int id = 124
+     0 float x = 351
+     0 float y = 823
+     0 float width = 6,9375
+     0 float height = 34,5625
+     0 float xOffset = 3,3125
+     0 float yOffset = 29,40625
+     0 float xAdvance = 13,625
+   [93]
+    0 GlyphInfo data
+     0 int id = 125
+     0 float x = 967
+     0 float y = 946
+     0 float width = 12,25
+     0 float height = 32,15625
+     0 float xOffset = 1,625
+     0 float yOffset = 27,03125
+     0 float xAdvance = 14,25
+   [94]
+    0 GlyphInfo data
+     0 int id = 126
+     0 float x = 913
+     0 float y = 1010
+     0 float width = 16,84375
+     0 float height = 7,46875
+     0 float xOffset = 1,375
+     0 float yOffset = 15,375
+     0 float xAdvance = 19,65625
+   [95]
+    0 GlyphInfo data
+     0 int id = 161
+     0 float x = 760
+     0 float y = 823
+     0 float width = 9,28125
+     0 float height = 26,75
+     0 float xOffset = 2,0625
+     0 float yOffset = 20,4375
+     0 float xAdvance = 13,3125
+   [96]
+    0 GlyphInfo data
+     0 int id = 176
+     0 float x = 874
+     0 float y = 900
+     0 float width = 10,78125
+     0 float height = 10,5
+     0 float xOffset = 1,46875
+     0 float yOffset = 27,03125
+     0 float xAdvance = 13,71875
+   [97]
+    0 GlyphInfo data
+     0 int id = 186
+     0 float x = 785
+     0 float y = 890
+     0 float width = 11,75
+     0 float height = 16,65625
+     0 float xOffset = 1,46875
+     0 float yOffset = 26,375
+     0 float xAdvance = 14,6875
+   [98]
+    0 GlyphInfo data
+     0 int id = 191
+     0 float x = 825
+     0 float y = 943
+     0 float width = 14,15625
+     0 float height = 26,75
+     0 float xOffset = 0,6875
+     0 float yOffset = 20,4375
+     0 float xAdvance = 15,65625
+   [99]
+    0 GlyphInfo data
+     0 int id = 192
+     0 float x = 6
+     0 float y = 900
+     0 float width = 25,78125
+     0 float height = 35,03125
+     0 float xOffset = 0,15625
+     0 float yOffset = 34,625
+     0 float xAdvance = 26,15625
+   [100]
+    0 GlyphInfo data
+     0 int id = 193
+     0 float x = 319
+     0 float y = 982
+     0 float width = 25,78125
+     0 float height = 35,03125
+     0 float xOffset = 0,15625
+     0 float yOffset = 34,625
+     0 float xAdvance = 26,15625
+   [101]
+    0 GlyphInfo data
+     0 int id = 194
+     0 float x = 274
+     0 float y = 950
+     0 float width = 25,78125
+     0 float height = 35,5625
+     0 float xOffset = 0,15625
+     0 float yOffset = 35,125
+     0 float xAdvance = 26,15625
+   [102]
+    0 GlyphInfo data
+     0 int id = 195
+     0 float x = 229
+     0 float y = 915
+     0 float width = 25,78125
+     0 float height = 35,46875
+     0 float xOffset = 0,15625
+     0 float yOffset = 35,0625
+     0 float xAdvance = 26,15625
+   [103]
+    0 GlyphInfo data
+     0 int id = 196
+     0 float x = 51
+     0 float y = 907
+     0 float width = 25,78125
+     0 float height = 35,34375
+     0 float xOffset = 0,15625
+     0 float yOffset = 34,90625
+     0 float xAdvance = 26,15625
+   [104]
+    0 GlyphInfo data
+     0 int id = 197
+     0 float x = 137
+     0 float y = 882
+     0 float width = 25,78125
+     0 float height = 33,4375
+     0 float xOffset = 0,15625
+     0 float yOffset = 33,03125
+     0 float xAdvance = 26,15625
+   [105]
+    0 GlyphInfo data
+     0 int id = 198
+     0 float x = 54
+     0 float y = 992
+     0 float width = 36,71875
+     0 float height = 25,90625
+     0 float xOffset = 0,0625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 38,0625
+   [106]
+    0 GlyphInfo data
+     0 int id = 199
+     0 float x = 762
+     0 float y = 947
+     0 float width = 19,90625
+     0 float height = 34,21875
+     0 float xOffset = 1,4375
+     0 float yOffset = 26,375
+     0 float xAdvance = 22,34375
+   [107]
+    0 GlyphInfo data
+     0 int id = 200
+     0 float x = 543
+     0 float y = 825
+     0 float width = 18,5
+     0 float height = 34,59375
+     0 float xOffset = 1,90625
+     0 float yOffset = 34,625
+     0 float xAdvance = 21,71875
+   [108]
+    0 GlyphInfo data
+     0 int id = 201
+     0 float x = 510
+     0 float y = 790
+     0 float width = 18,5
+     0 float height = 34,59375
+     0 float xOffset = 1,90625
+     0 float yOffset = 34,625
+     0 float xAdvance = 21,71875
+   [109]
+    0 GlyphInfo data
+     0 int id = 202
+     0 float x = 688
+     0 float y = 861
+     0 float width = 18,5
+     0 float height = 35,125
+     0 float xOffset = 1,90625
+     0 float yOffset = 35,125
+     0 float xAdvance = 21,71875
+   [110]
+    0 GlyphInfo data
+     0 int id = 203
+     0 float x = 463
+     0 float y = 781
+     0 float width = 18,5
+     0 float height = 34,9375
+     0 float xOffset = 1,90625
+     0 float yOffset = 34,9375
+     0 float xAdvance = 21,71875
+   [111]
+    0 GlyphInfo data
+     0 int id = 204
+     0 float x = 883
+     0 float y = 922
+     0 float width = 11,15625
+     0 float height = 34,59375
+     0 float xOffset = -0,90625
+     0 float yOffset = 34,625
+     0 float xAdvance = 12,21875
+   [112]
+    0 GlyphInfo data
+     0 int id = 205
+     0 float x = 911
+     0 float y = 925
+     0 float width = 11,0625
+     0 float height = 34,59375
+     0 float xOffset = 1,90625
+     0 float yOffset = 34,625
+     0 float xAdvance = 12,21875
+   [113]
+    0 GlyphInfo data
+     0 int id = 206
+     0 float x = 35
+     0 float y = 622
+     0 float width = 16,28125
+     0 float height = 35,125
+     0 float xOffset = -2,0625
+     0 float yOffset = 35,125
+     0 float xAdvance = 12,21875
+   [114]
+    0 GlyphInfo data
+     0 int id = 207
+     0 float x = 340
+     0 float y = 777
+     0 float width = 18
+     0 float height = 34,90625
+     0 float xOffset = -2,90625
+     0 float yOffset = 34,90625
+     0 float xAdvance = 12,21875
+   [115]
+    0 GlyphInfo data
+     0 int id = 208
+     0 float x = 311
+     0 float y = 944
+     0 float width = 25
+     0 float height = 26,34375
+     0 float xOffset = 1,21875
+     0 float yOffset = 26,375
+     0 float xAdvance = 27,375
+   [116]
+    0 GlyphInfo data
+     0 int id = 209
+     0 float x = 174
+     0 float y = 852
+     0 float width = 23,71875
+     0 float height = 35,03125
+     0 float xOffset = 1,90625
+     0 float yOffset = 35,0625
+     0 float xAdvance = 27,5625
+   [117]
+    0 GlyphInfo data
+     0 int id = 210
+     0 float x = 125
+     0 float y = 835
+     0 float width = 23,75
+     0 float height = 35,03125
+     0 float xOffset = 1,4375
+     0 float yOffset = 34,625
+     0 float xAdvance = 26,625
+   [118]
+    0 GlyphInfo data
+     0 int id = 211
+     0 float x = 80
+     0 float y = 824
+     0 float width = 23,75
+     0 float height = 35,03125
+     0 float xOffset = 1,4375
+     0 float yOffset = 34,625
+     0 float xAdvance = 26,625
+   [119]
+    0 GlyphInfo data
+     0 int id = 212
+     0 float x = 43
+     0 float y = 822
+     0 float width = 23,75
+     0 float height = 35,5625
+     0 float xOffset = 1,4375
+     0 float yOffset = 35,125
+     0 float xAdvance = 26,625
+   [120]
+    0 GlyphInfo data
+     0 int id = 213
+     0 float x = 6
+     0 float y = 815
+     0 float width = 23,75
+     0 float height = 35,46875
+     0 float xOffset = 1,4375
+     0 float yOffset = 35,0625
+     0 float xAdvance = 26,625
+   [121]
+    0 GlyphInfo data
+     0 int id = 214
+     0 float x = 266
+     0 float y = 903
+     0 float width = 23,75
+     0 float height = 35,375
+     0 float xOffset = 1,4375
+     0 float yOffset = 34,9375
+     0 float xAdvance = 26,625
+   [122]
+    0 GlyphInfo data
+     0 int id = 216
+     0 float x = 209
+     0 float y = 824
+     0 float width = 23,75
+     0 float height = 32,03125
+     0 float xOffset = 1,4375
+     0 float yOffset = 28,875
+     0 float xAdvance = 26,625
+   [123]
+    0 GlyphInfo data
+     0 int id = 217
+     0 float x = 429
+     0 float y = 982
+     0 float width = 23,34375
+     0 float height = 35,03125
+     0 float xOffset = 1,75
+     0 float yOffset = 34,625
+     0 float xAdvance = 26,90625
+   [124]
+    0 GlyphInfo data
+     0 int id = 218
+     0 float x = 392
+     0 float y = 944
+     0 float width = 23,34375
+     0 float height = 35,03125
+     0 float xOffset = 1,75
+     0 float yOffset = 34,625
+     0 float xAdvance = 26,90625
+   [125]
+    0 GlyphInfo data
+     0 int id = 219
+     0 float x = 347
+     0 float y = 907
+     0 float width = 23,34375
+     0 float height = 35,5625
+     0 float xOffset = 1,75
+     0 float yOffset = 35,125
+     0 float xAdvance = 26,90625
+   [126]
+    0 GlyphInfo data
+     0 int id = 220
+     0 float x = 217
+     0 float y = 868
+     0 float width = 23,34375
+     0 float height = 35,375
+     0 float xOffset = 1,75
+     0 float yOffset = 34,9375
+     0 float xAdvance = 26,90625
+   [127]
+    0 GlyphInfo data
+     0 int id = 221
+     0 float x = 191
+     0 float y = 945
+     0 float width = 26,21875
+     0 float height = 34,59375
+     0 float xOffset = 0,15625
+     0 float yOffset = 34,625
+     0 float xAdvance = 26,59375
+   [128]
+    0 GlyphInfo data
+     0 int id = 222
+     0 float x = 415
+     0 float y = 870
+     0 float width = 21,65625
+     0 float height = 25,90625
+     0 float xOffset = 1,90625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 23,90625
+   [129]
+    0 GlyphInfo data
+     0 int id = 223
+     0 float x = 160
+     0 float y = 813
+     0 float width = 23,0625
+     0 float height = 27,4375
+     0 float xOffset = 1,90625
+     0 float yOffset = 27,03125
+     0 float xAdvance = 25,8125
+   [130]
+    0 GlyphInfo data
+     0 int id = 224
+     0 float x = 481
+     0 float y = 865
+     0 float width = 19,65625
+     0 float height = 28,875
+     0 float xOffset = 1,4375
+     0 float yOffset = 28,3125
+     0 float xAdvance = 22,375
+   [131]
+    0 GlyphInfo data
+     0 int id = 225
+     0 float x = 448
+     0 float y = 838
+     0 float width = 19,65625
+     0 float height = 28,875
+     0 float xOffset = 1,4375
+     0 float yOffset = 28,3125
+     0 float xAdvance = 22,375
+   [132]
+    0 GlyphInfo data
+     0 int id = 226
+     0 float x = 634
+     0 float y = 950
+     0 float width = 19,65625
+     0 float height = 29,4375
+     0 float xOffset = 1,4375
+     0 float yOffset = 28,875
+     0 float xAdvance = 22,375
+   [133]
+    0 GlyphInfo data
+     0 int id = 227
+     0 float x = 665
+     0 float y = 950
+     0 float width = 19,65625
+     0 float height = 29,3125
+     0 float xOffset = 1,4375
+     0 float yOffset = 28,75
+     0 float xAdvance = 22,375
+   [134]
+    0 GlyphInfo data
+     0 int id = 228
+     0 float x = 600
+     0 float y = 942
+     0 float width = 19,65625
+     0 float height = 29,125
+     0 float xOffset = 1,4375
+     0 float yOffset = 28,59375
+     0 float xAdvance = 22,375
+   [135]
+    0 GlyphInfo data
+     0 int id = 229
+     0 float x = 729
+     0 float y = 949
+     0 float width = 19,65625
+     0 float height = 31,5625
+     0 float xOffset = 1,4375
+     0 float yOffset = 31,03125
+     0 float xAdvance = 22,375
+   [136]
+    0 GlyphInfo data
+     0 int id = 230
+     0 float x = 278
+     0 float y = 997
+     0 float width = 29,6875
+     0 float height = 20,875
+     0 float xOffset = 1,4375
+     0 float yOffset = 20,4375
+     0 float xAdvance = 32,21875
+   [137]
+    0 GlyphInfo data
+     0 int id = 231
+     0 float x = 6
+     0 float y = 610
+     0 float width = 16,4375
+     0 float height = 28,3125
+     0 float xOffset = 1,21875
+     0 float yOffset = 20,4375
+     0 float xAdvance = 17,90625
+   [138]
+    0 GlyphInfo data
+     0 int id = 232
+     0 float x = 322
+     0 float y = 737
+     0 float width = 18,75
+     0 float height = 28,75
+     0 float xOffset = 1,21875
+     0 float yOffset = 28,3125
+     0 float xAdvance = 21,09375
+   [139]
+    0 GlyphInfo data
+     0 int id = 233
+     0 float x = 620
+     0 float y = 838
+     0 float width = 18,75
+     0 float height = 28,75
+     0 float xOffset = 1,21875
+     0 float yOffset = 28,3125
+     0 float xAdvance = 21,09375
+   [140]
+    0 GlyphInfo data
+     0 int id = 234
+     0 float x = 400
+     0 float y = 751
+     0 float width = 18,75
+     0 float height = 29,3125
+     0 float xOffset = 1,21875
+     0 float yOffset = 28,875
+     0 float xAdvance = 21,09375
+   [141]
+    0 GlyphInfo data
+     0 int id = 235
+     0 float x = 650
+     0 float y = 838
+     0 float width = 18,75
+     0 float height = 29
+     0 float xOffset = 1,21875
+     0 float yOffset = 28,59375
+     0 float xAdvance = 21,09375
+   [142]
+    0 GlyphInfo data
+     0 int id = 236
+     0 float x = 934
+     0 float y = 925
+     0 float width = 11,375
+     0 float height = 28,3125
+     0 float xOffset = -0,875
+     0 float yOffset = 28,3125
+     0 float xAdvance = 12,09375
+   [143]
+    0 GlyphInfo data
+     0 int id = 237
+     0 float x = 718
+     0 float y = 824
+     0 float width = 10,5625
+     0 float height = 28,3125
+     0 float xOffset = 1,90625
+     0 float yOffset = 28,3125
+     0 float xAdvance = 12,09375
+   [144]
+    0 GlyphInfo data
+     0 int id = 238
+     0 float x = 63
+     0 float y = 598
+     0 float width = 16,28125
+     0 float height = 28,875
+     0 float xOffset = -2,125
+     0 float yOffset = 28,875
+     0 float xAdvance = 12,09375
+   [145]
+    0 GlyphInfo data
+     0 int id = 239
+     0 float x = 100
+     0 float y = 636
+     0 float width = 18
+     0 float height = 28,5625
+     0 float xOffset = -2,90625
+     0 float yOffset = 28,59375
+     0 float xAdvance = 12,09375
+   [146]
+    0 GlyphInfo data
+     0 int id = 240
+     0 float x = 145
+     0 float y = 728
+     0 float width = 20,125
+     0 float height = 27,4375
+     0 float xOffset = 1,21875
+     0 float yOffset = 27,03125
+     0 float xAdvance = 22,96875
+   [147]
+    0 GlyphInfo data
+     0 int id = 241
+     0 float x = 401
+     0 float y = 830
+     0 float width = 19,78125
+     0 float height = 28,75
+     0 float xOffset = 1,34375
+     0 float yOffset = 28,75
+     0 float xAdvance = 22,90625
+   [148]
+    0 GlyphInfo data
+     0 int id = 242
+     0 float x = 308
+     0 float y = 788
+     0 float width = 20,21875
+     0 float height = 28,75
+     0 float xOffset = 1,21875
+     0 float yOffset = 28,3125
+     0 float xAdvance = 22,65625
+   [149]
+    0 GlyphInfo data
+     0 int id = 243
+     0 float x = 227
+     0 float y = 772
+     0 float width = 20,21875
+     0 float height = 28,75
+     0 float xOffset = 1,21875
+     0 float yOffset = 28,3125
+     0 float xAdvance = 22,65625
+   [150]
+    0 GlyphInfo data
+     0 int id = 244
+     0 float x = 319
+     0 float y = 828
+     0 float width = 20,21875
+     0 float height = 29,3125
+     0 float xOffset = 1,21875
+     0 float yOffset = 28,875
+     0 float xAdvance = 22,65625
+   [151]
+    0 GlyphInfo data
+     0 int id = 245
+     0 float x = 276
+     0 float y = 810
+     0 float width = 20,21875
+     0 float height = 29,1875
+     0 float xOffset = 1,21875
+     0 float yOffset = 28,75
+     0 float xAdvance = 22,65625
+   [152]
+    0 GlyphInfo data
+     0 int id = 246
+     0 float x = 182
+     0 float y = 737
+     0 float width = 20,21875
+     0 float height = 29
+     0 float xOffset = 1,21875
+     0 float yOffset = 28,59375
+     0 float xAdvance = 22,65625
+   [153]
+    0 GlyphInfo data
+     0 int id = 248
+     0 float x = 762
+     0 float y = 993
+     0 float width = 20,21875
+     0 float height = 24,78125
+     0 float xOffset = 1,21875
+     0 float yOffset = 22,3125
+     0 float xAdvance = 22,65625
+   [154]
+    0 GlyphInfo data
+     0 int id = 249
+     0 float x = 631
+     0 float y = 910
+     0 float width = 19,78125
+     0 float height = 28,875
+     0 float xOffset = 1,71875
+     0 float yOffset = 28,3125
+     0 float xAdvance = 22,90625
+   [155]
+    0 GlyphInfo data
+     0 int id = 250
+     0 float x = 595
+     0 float y = 902
+     0 float width = 19,78125
+     0 float height = 28,875
+     0 float xOffset = 1,71875
+     0 float yOffset = 28,3125
+     0 float xAdvance = 22,90625
+   [156]
+    0 GlyphInfo data
+     0 int id = 251
+     0 float x = 527
+     0 float y = 874
+     0 float width = 19,78125
+     0 float height = 29,4375
+     0 float xOffset = 1,71875
+     0 float yOffset = 28,875
+     0 float xAdvance = 22,90625
+   [157]
+    0 GlyphInfo data
+     0 int id = 252
+     0 float x = 564
+     0 float y = 909
+     0 float width = 19,78125
+     0 float height = 29,125
+     0 float xOffset = 1,71875
+     0 float yOffset = 28,59375
+     0 float xAdvance = 22,90625
+   [158]
+    0 GlyphInfo data
+     0 int id = 253
+     0 float x = 601
+     0 float y = 983
+     0 float width = 22
+     0 float height = 34,6875
+     0 float xOffset = 0,15625
+     0 float yOffset = 28,3125
+     0 float xAdvance = 22,375
+   [159]
+    0 GlyphInfo data
+     0 int id = 254
+     0 float x = 698
+     0 float y = 948
+     0 float width = 19,71875
+     0 float height = 32,25
+     0 float xOffset = 1,90625
+     0 float yOffset = 26,59375
+     0 float xAdvance = 22,9375
+   [160]
+    0 GlyphInfo data
+     0 int id = 255
+     0 float x = 567
+     0 float y = 950
+     0 float width = 22
+     0 float height = 34,9375
+     0 float xOffset = 0,15625
+     0 float yOffset = 28,59375
+     0 float xAdvance = 22,375
+   [161]
+    0 GlyphInfo data
+     0 int id = 258
+     0 float x = 100
+     0 float y = 910
+     0 float width = 25,78125
+     0 float height = 36,65625
+     0 float xOffset = 0,15625
+     0 float yOffset = 36,25
+     0 float xAdvance = 26,15625
+   [162]
+    0 GlyphInfo data
+     0 int id = 259
+     0 float x = 729
+     0 float y = 907
+     0 float width = 19,65625
+     0 float height = 30,84375
+     0 float xOffset = 1,4375
+     0 float yOffset = 30,28125
+     0 float xAdvance = 22,375
+   [163]
+    0 GlyphInfo data
+     0 int id = 260
+     0 float x = 180
+     0 float y = 899
+     0 float width = 25,78125
+     0 float height = 34,21875
+     0 float xOffset = 0,15625
+     0 float yOffset = 26,375
+     0 float xAdvance = 26,15625
+   [164]
+    0 GlyphInfo data
+     0 int id = 261
+     0 float x = 662
+     0 float y = 910
+     0 float width = 19,6875
+     0 float height = 28,3125
+     0 float xOffset = 1,4375
+     0 float yOffset = 20,4375
+     0 float xAdvance = 22,375
+   [165]
+    0 GlyphInfo data
+     0 int id = 262
+     0 float x = 794
+     0 float y = 950
+     0 float width = 19,90625
+     0 float height = 35,03125
+     0 float xOffset = 1,4375
+     0 float yOffset = 34,625
+     0 float xAdvance = 22,34375
+   [166]
+    0 GlyphInfo data
+     0 int id = 263
+     0 float x = 34
+     0 float y = 582
+     0 float width = 16,625
+     0 float height = 28,75
+     0 float xOffset = 1,21875
+     0 float yOffset = 28,3125
+     0 float xAdvance = 17,90625
+   [167]
+    0 GlyphInfo data
+     0 int id = 280
+     0 float x = 432
+     0 float y = 755
+     0 float width = 18,5
+     0 float height = 33,78125
+     0 float xOffset = 1,90625
+     0 float yOffset = 25,90625
+     0 float xAdvance = 21,71875
+   [168]
+    0 GlyphInfo data
+     0 int id = 281
+     0 float x = 573
+     0 float y = 830
+     0 float width = 18,75
+     0 float height = 28,3125
+     0 float xOffset = 1,21875
+     0 float yOffset = 20,4375
+     0 float xAdvance = 21,09375
+   [169]
+    0 GlyphInfo data
+     0 int id = 286
+     0 float x = 499
+     0 float y = 981
+     0 float width = 22,53125
+     0 float height = 36,65625
+     0 float xOffset = 1,4375
+     0 float yOffset = 36,25
+     0 float xAdvance = 25,53125
+   [170]
+    0 GlyphInfo data
+     0 int id = 287
+     0 float x = 826
+     0 float y = 981
+     0 float width = 19,71875
+     0 float height = 36,4375
+     0 float xOffset = 0,90625
+     0 float yOffset = 30,28125
+     0 float xAdvance = 22,3125
+   [171]
+    0 GlyphInfo data
+     0 int id = 304
+     0 float x = 842
+     0 float y = 854
+     0 float width = 9,03125
+     0 float height = 35,0625
+     0 float xOffset = 1,5625
+     0 float yOffset = 35,09375
+     0 float xAdvance = 12,21875
+   [172]
+    0 GlyphInfo data
+     0 int id = 305
+     0 float x = 740
+     0 float y = 839
+     0 float width = 8,4375
+     0 float height = 19,96875
+     0 float xOffset = 2,0625
+     0 float yOffset = 20
+     0 float xAdvance = 12,09375
+   [173]
+    0 GlyphInfo data
+     0 int id = 321
+     0 float x = 415
+     0 float y = 907
+     0 float width = 21,25
+     0 float height = 25,90625
+     0 float xOffset = 1,09375
+     0 float yOffset = 25,90625
+     0 float xAdvance = 23,3125
+   [174]
+    0 GlyphInfo data
+     0 int id = 322
+     0 float x = 992
+     0 float y = 991
+     0 float width = 13,46875
+     0 float height = 26,5625
+     0 float xOffset = 1,03125
+     0 float yOffset = 26,59375
+     0 float xAdvance = 15,53125
+   [175]
+    0 GlyphInfo data
+     0 int id = 323
+     0 float x = 301
+     0 float y = 898
+     0 float width = 23,71875
+     0 float height = 34,59375
+     0 float xOffset = 1,90625
+     0 float yOffset = 34,625
+     0 float xAdvance = 27,5625
+   [176]
+    0 GlyphInfo data
+     0 int id = 324
+     0 float x = 693
+     0 float y = 908
+     0 float width = 19,78125
+     0 float height = 28,3125
+     0 float xOffset = 1,34375
+     0 float yOffset = 28,3125
+     0 float xAdvance = 22,90625
+   [177]
+    0 GlyphInfo data
+     0 int id = 338
+     0 float x = 54
+     0 float y = 954
+     0 float width = 34,40625
+     0 float height = 26,78125
+     0 float xOffset = 1,4375
+     0 float yOffset = 26,375
+     0 float xAdvance = 37,15625
+   [178]
+    0 GlyphInfo data
+     0 int id = 339
+     0 float x = 100
+     0 float y = 958
+     0 float width = 30,8125
+     0 float height = 20,875
+     0 float xOffset = 1,21875
+     0 float yOffset = 20,4375
+     0 float xAdvance = 33,15625
+   [179]
+    0 GlyphInfo data
+     0 int id = 346
+     0 float x = 369
+     0 float y = 827
+     0 float width = 20,875
+     0 float height = 35,03125
+     0 float xOffset = 1,28125
+     0 float yOffset = 34,625
+     0 float xAdvance = 22,90625
+   [180]
+    0 GlyphInfo data
+     0 int id = 347
+     0 float x = 207
+     0 float y = 692
+     0 float width = 17,1875
+     0 float height = 28,75
+     0 float xOffset = 0,9375
+     0 float yOffset = 28,3125
+     0 float xAdvance = 19,125
+   [181]
+    0 GlyphInfo data
+     0 int id = 350
+     0 float x = 150
+     0 float y = 767
+     0 float width = 20,875
+     0 float height = 34,21875
+     0 float xOffset = 1,28125
+     0 float yOffset = 26,375
+     0 float xAdvance = 22,90625
+   [182]
+    0 GlyphInfo data
+     0 int id = 351
+     0 float x = 170
+     0 float y = 657
+     0 float width = 17,1875
+     0 float height = 28,3125
+     0 float xOffset = 0,9375
+     0 float yOffset = 20,4375
+     0 float xAdvance = 19,125
+   [183]
+    0 GlyphInfo data
+     0 int id = 352
+     0 float x = 244
+     0 float y = 812
+     0 float width = 20,875
+     0 float height = 35,90625
+     0 float xOffset = 1,28125
+     0 float yOffset = 35,5
+     0 float xAdvance = 22,90625
+   [184]
+    0 GlyphInfo data
+     0 int id = 353
+     0 float x = 244
+     0 float y = 715
+     0 float width = 17,1875
+     0 float height = 29,59375
+     0 float xOffset = 0,9375
+     0 float yOffset = 29,15625
+     0 float xAdvance = 19,125
+   [185]
+    0 GlyphInfo data
+     0 int id = 376
+     0 float x = 236
+     0 float y = 962
+     0 float width = 26,21875
+     0 float height = 34,9375
+     0 float xOffset = 0,15625
+     0 float yOffset = 34,9375
+     0 float xAdvance = 26,59375
+   [186]
+    0 GlyphInfo data
+     0 int id = 377
+     0 float x = 113
+     0 float y = 751
+     0 float width = 20,96875
+     0 float height = 34,59375
+     0 float xOffset = 0,90625
+     0 float yOffset = 34,625
+     0 float xAdvance = 22,84375
+   [187]
+    0 GlyphInfo data
+     0 int id = 378
+     0 float x = 214
+     0 float y = 732
+     0 float width = 18,28125
+     0 float height = 28,3125
+     0 float xOffset = 1,25
+     0 float yOffset = 28,3125
+     0 float xAdvance = 20,5625
+   [188]
+    0 GlyphInfo data
+     0 int id = 379
+     0 float x = 287
+     0 float y = 851
+     0 float width = 20,96875
+     0 float height = 35,0625
+     0 float xOffset = 0,90625
+     0 float yOffset = 35,09375
+     0 float xAdvance = 22,84375
+   [189]
+    0 GlyphInfo data
+     0 int id = 380
+     0 float x = 177
+     0 float y = 697
+     0 float width = 18,28125
+     0 float height = 28,625
+     0 float xOffset = 1,25
+     0 float yOffset = 28,65625
+     0 float xAdvance = 20,5625
+   [190]
+    0 GlyphInfo data
+     0 int id = 381
+     0 float x = 195
+     0 float y = 777
+     0 float width = 20,96875
+     0 float height = 35,46875
+     0 float xOffset = 0,90625
+     0 float yOffset = 35,5
+     0 float xAdvance = 22,84375
+   [191]
+    0 GlyphInfo data
+     0 int id = 382
+     0 float x = 369
+     0 float y = 749
+     0 float width = 18,28125
+     0 float height = 29,15625
+     0 float xOffset = 1,25
+     0 float yOffset = 29,15625
+     0 float xAdvance = 20,5625
+   [192]
+    0 GlyphInfo data
+     0 int id = 536
+     0 float x = 76
+     0 float y = 740
+     0 float width = 20,875
+     0 float height = 34,15625
+     0 float xOffset = 1,28125
+     0 float yOffset = 26,375
+     0 float xAdvance = 22,90625
+   [193]
+    0 GlyphInfo data
+     0 int id = 537
+     0 float x = 135
+     0 float y = 651
+     0 float width = 17,1875
+     0 float height = 28,25
+     0 float xOffset = 0,9375
+     0 float yOffset = 20,4375
+     0 float xAdvance = 19,125
+   [194]
+    0 GlyphInfo data
+     0 int id = 538
+     0 float x = 6
+     0 float y = 732
+     0 float width = 20,0625
+     0 float height = 33,71875
+     0 float xOffset = 0,75
+     0 float yOffset = 25,90625
+     0 float xAdvance = 21,59375
+   [195]
+    0 GlyphInfo data
+     0 int id = 539
+     0 float x = 941
+     0 float y = 984
+     0 float width = 14,3125
+     0 float height = 34
+     0 float xOffset = 0,90625
+     0 float yOffset = 26,21875
+     0 float xAdvance = 15,8125
+   [196]
+    0 GlyphInfo data
+     0 int id = 8211
+     0 float x = 6
+     0 float y = 650
+     0 float width = 18
+     0 float height = 7,59375
+     0 float xOffset = 1,84375
+     0 float yOffset = 15,40625
+     0 float xAdvance = 21,6875
+   [197]
+    0 GlyphInfo data
+     0 int id = 8217
+     0 float x = 928
+     0 float y = 900
+     0 float width = 10,53125
+     0 float height = 13,65625
+     0 float xOffset = 0,71875
+     0 float yOffset = 27,03125
+     0 float xAdvance = 12,03125
+   [198]
+    0 GlyphInfo data
+     0 int id = 8230
+     0 float x = 236
+     0 float y = 1008
+     0 float width = 30,875
+     0 float height = 9,15625
+     0 float xOffset = 1,65625
+     0 float yOffset = 8,75
+     0 float xAdvance = 34,1875
+ 0 KerningTable m_kerningInfo
+  0 KerningPair kerningPairs
+   1 Array Array (0 items)
+    0 int size = 0
+ 0 KerningPair m_kerningPair
+  0 int AscII_Left = 0
+  0 int AscII_Right = 0
+  0 float XadvanceOffset = 0
+ 0 LineBreakingTable m_lineBreakingInfo
+ 0 FontCreationSetting fontCreationSettings
+  1 string fontSourcePath = ""
+  0 int fontSizingMode = 0
+  0 int fontSize = 0
+  0 int fontPadding = 0
+  0 int fontPackingMode = 0
+  0 int fontAtlasWidth = 0
+  0 int fontAtlasHeight = 0
+  0 int fontCharacterSet = 0
+  0 int fontStyle = 0
+  0 float fontStlyeModifier = 0
+  0 int fontRenderMode = 0
+  1 UInt8 fontKerning = 0
+ 1 UInt8 propertiesChanged = 0
+ 0 float NormalStyle = 0
+ 0 float BoldStyle = 0,75
+ 0 float boldSpacing = 7
+ 1 UInt8 ItalicStyle = 35
+ 1 UInt8 TabSize = 10
